@@ -1,3 +1,5 @@
+/* SPDX-License-Identifier: BSD-3-Clause */
+
 package it.mds.sdk.flusso.sism.residenziale.cont.parser.regole.conf;
 
 import it.mds.sdk.connettore.anagrafiche.conf.Configurazione;
